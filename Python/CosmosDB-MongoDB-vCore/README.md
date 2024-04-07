@@ -1,2 +1,2 @@
-## Notebooks for RAG with Azure Cosmos DB for MongoDB vCore and Azure OpenAI
-This folder contains end-to-end walkthroughs of how to perform Retrieval Augmented Generation (RAG) with Azure Cosmos DB for MongoDB vCore and Azure OpenAI in a small demo.
+## Azure Cosmos DB for MongoDB vCoreとAzure OpenAIを使用したRetrieval Augmented Generation（RAG）のノートブック
+このフォルダには、Azure Cosmos DB for MongoDB vCoreとAzure OpenAIを使用した小規模なデモでのRetrieval Augmented Generation（RAG）の実行方法に関するエンドツーエンドの手順が含まれています。
